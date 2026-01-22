@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;POO&apos;&#x0D;&#x0A;- Original project: &apos;POO&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.miapp.abstraccion.java&#x0D;&#x0A;     com.miapp.CuentaBancaria.java&#x0D;&#x0A;     com.miapp.Herencia.java" description="Delete elements" element1="/src&lt;com.miapp{Herencia.java" element2="/src&lt;com.miapp{CuentaBancaria.java" element3="/src&lt;com.miapp{abstraccion.java" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1769039392206" subPackages="false" version="1.0"/>
+</session>
